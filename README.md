@@ -11,7 +11,6 @@ Things you may want to cover:
 * Ruby version
 * Ruby version
 * Ruby version
-* Ruby version
 
 * System dependencies
 
